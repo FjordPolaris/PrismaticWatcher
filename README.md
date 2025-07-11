@@ -3,4 +3,5 @@ Since the Roblox platform does not provide any way to detect when a PrismaticCon
 
 ## FUNCTIONS
 
-`.new(PrismaticObject, Setting)`
+`.new(Instance, Precision)`
+``
