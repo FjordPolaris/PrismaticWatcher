@@ -6,3 +6,5 @@ Since the Roblox platform does not provide any way to detect when a PrismaticCon
 1. `.new(Instance, Precision)`
 2. `:IsStopped() -> Boolean`
 3. `:WaitUntilStopped()`  
+
+**NOTE:** This repository is no longer maintained!
